@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { NextResponse } from 'next/server';
 import { tokenizeCard } from '@/lib/utils/tokenization';
 import { paymentFormSchema } from '@/lib/validation/schemas';
